@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amaracz
+- 👋 Hi, I’m @amaracz, check out my [personal GitHub (@h8pewou) as well](https://github.com/h8pewou/)
 - 👀 I’m interested in Home Automation
 - 🌱 I’m currently learning Automated Docker deployments
 - 💞️ I’m looking to collaborate on Zwave.js
